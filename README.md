@@ -3,6 +3,7 @@
 > What could be more logical awesome than no logic at all?
 
 [![Build Status](https://travis-ci.org/janl/mustache.js.svg?branch=master)](https://travis-ci.org/janl/mustache.js) [![Gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/janl/mustache.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fmustache.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fmustache.js?ref=badge_shield)
 
 [mustache.js](http://github.com/janl/mustache.js) is an implementation of the [mustache](http://mustache.github.com/) template system in JavaScript.
 
@@ -637,3 +638,7 @@ mustache.js wouldn't kick ass if it weren't for these fine souls:
   * Michael Jackson / mjackson
   * Phillip Johnsen / phillipj
   * David da Silva Contín / dasilvacontin
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fmustache.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fmustache.js?ref=badge_large)
